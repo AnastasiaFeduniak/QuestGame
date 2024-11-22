@@ -1,0 +1,730 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\storywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:storywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\userconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:userconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\namedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:namedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\concretesprite1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:concretesprite1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\isprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:isprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\storywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:storywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\concretepicturesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:concretepicturesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\ipicturesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:ipicturesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\backspacekeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:backspacekeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\numberkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:numberkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\enterkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:enterkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\speceffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:speceffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\speceffectsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:speceffectsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\flyweightsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:flyweightsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\istorycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:istorycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\routecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:routecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\questgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:questgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\c5d1b3d573fadbd037e0e6cdd14caf1f323a1b66c49f70fa6a741c26b5b1bb90\\ResourceReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\mandatorychoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:mandatorychoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\makeachoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:makeachoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\namedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:namedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\inventorygiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:inventorygiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\replics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:replics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\replicbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:replicbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\routegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:routegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\inpcsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:inpcsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameDialog.xaml.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NameDialog.xaml.cs",
+              "RelativeDocumentMoniker": "NameDialog.xaml.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NameDialog.xaml.cs",
+              "RelativeToolTip": "NameDialog.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:34:17.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserConf.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\UserConf.cs",
+              "RelativeDocumentMoniker": "UserConf.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\UserConf.cs",
+              "RelativeToolTip": "UserConf.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAmwFYBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:31:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryWindow.xaml.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StoryWindow.xaml.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryWindow.xaml.cs",
+              "RelativeToolTip": "StoryWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:20:51.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:53:42.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALkUAAAAAAAAAAAIwNgUAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-15T12:28:55.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteSprite1.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ConcreteSprite1.cs",
+              "RelativeDocumentMoniker": "ConcreteSprite1.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ConcreteSprite1.cs",
+              "RelativeToolTip": "ConcreteSprite1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:28:13.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPictureSprite.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IPictureSprite.cs",
+              "RelativeDocumentMoniker": "IPictureSprite.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IPictureSprite.cs",
+              "RelativeToolTip": "IPictureSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:27:28.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcretePictureSprite.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ConcretePictureSprite.cs",
+              "RelativeDocumentMoniker": "ConcretePictureSprite.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ConcretePictureSprite.cs",
+              "RelativeToolTip": "ConcretePictureSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:27:12.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberKeyHandler.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NumberKeyHandler.cs",
+              "RelativeDocumentMoniker": "NumberKeyHandler.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NumberKeyHandler.cs",
+              "RelativeToolTip": "NumberKeyHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:54:23.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BackspaceKeyHandler.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\BackspaceKeyHandler.cs",
+              "RelativeDocumentMoniker": "BackspaceKeyHandler.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\BackspaceKeyHandler.cs",
+              "RelativeToolTip": "BackspaceKeyHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:55:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpecEffects.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\SpecEffects.cs",
+              "RelativeDocumentMoniker": "SpecEffects.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\SpecEffects.cs",
+              "RelativeToolTip": "SpecEffects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:45:57.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISprites.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ISprites.cs",
+              "RelativeDocumentMoniker": "ISprites.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ISprites.cs",
+              "RelativeToolTip": "ISprites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:32:32.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoryWindow.xaml",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryWindow.xaml",
+              "RelativeDocumentMoniker": "StoryWindow.xaml",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryWindow.xaml",
+              "RelativeToolTip": "StoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T19:50:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\State.cs",
+              "RelativeDocumentMoniker": "State.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\State.cs",
+              "RelativeToolTip": "State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:20:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lab5.csproj",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Lab5.csproj",
+              "RelativeDocumentMoniker": "Lab5.csproj",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Lab5.csproj",
+              "RelativeToolTip": "Lab5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T12:20:58.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpecEffectsFactory.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\SpecEffectsFactory.cs",
+              "RelativeDocumentMoniker": "SpecEffectsFactory.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\SpecEffectsFactory.cs",
+              "RelativeToolTip": "SpecEffectsFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:47:14.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlyweightSprite.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\FlyweightSprite.cs",
+              "RelativeDocumentMoniker": "FlyweightSprite.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\FlyweightSprite.cs",
+              "RelativeToolTip": "FlyweightSprite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:35:49.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Leaf.cs",
+              "RelativeDocumentMoniker": "Leaf.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Leaf.cs",
+              "RelativeToolTip": "Leaf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:10:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnterKeyHandler.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\EnterKeyHandler.cs",
+              "RelativeDocumentMoniker": "EnterKeyHandler.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\EnterKeyHandler.cs",
+              "RelativeToolTip": "EnterKeyHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:53:13.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Command.cs",
+              "RelativeDocumentMoniker": "Command.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Command.cs",
+              "RelativeToolTip": "Command.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:23:10.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Choice.cs",
+              "RelativeDocumentMoniker": "Choice.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Choice.cs",
+              "RelativeToolTip": "Choice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:01:08.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Handler.cs",
+              "RelativeDocumentMoniker": "Handler.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Handler.cs",
+              "RelativeToolTip": "Handler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:52:41.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Composite.cs",
+              "RelativeDocumentMoniker": "Composite.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Composite.cs",
+              "RelativeToolTip": "Composite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:12:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStoryComponent.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IStoryComponent.cs",
+              "RelativeDocumentMoniker": "IStoryComponent.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IStoryComponent.cs",
+              "RelativeToolTip": "IStoryComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:09:12.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RouteComponent.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\RouteComponent.cs",
+              "RelativeDocumentMoniker": "RouteComponent.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\RouteComponent.cs",
+              "RelativeToolTip": "RouteComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:30.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuestGame.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\QuestGame.cs",
+              "RelativeDocumentMoniker": "QuestGame.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\QuestGame.cs",
+              "RelativeToolTip": "QuestGame.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:32:21.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-28T12:07:52.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:57:00.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResourceReader.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\c5d1b3d573fadbd037e0e6cdd14caf1f323a1b66c49f70fa6a741c26b5b1bb90\\ResourceReader.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\c5d1b3d573fadbd037e0e6cdd14caf1f323a1b66c49f70fa6a741c26b5b1bb90\\ResourceReader.cs",
+              "ViewState": "AQIAAGoDAAAAAAAAAAASwHsDAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:23:34.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Script.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Script.cs",
+              "RelativeDocumentMoniker": "Script.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Script.cs",
+              "RelativeToolTip": "Script.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:57:51.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MakeAChoice.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MakeAChoice.cs",
+              "RelativeDocumentMoniker": "MakeAChoice.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MakeAChoice.cs",
+              "RelativeToolTip": "MakeAChoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:25.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MandatoryChoice.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MandatoryChoice.cs",
+              "RelativeDocumentMoniker": "MandatoryChoice.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MandatoryChoice.cs",
+              "RelativeToolTip": "MandatoryChoice.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAtwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:27.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T10:57:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InventoryGiver.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\InventoryGiver.cs",
+              "RelativeDocumentMoniker": "InventoryGiver.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\InventoryGiver.cs",
+              "RelativeToolTip": "InventoryGiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:15.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Routes.cs",
+              "RelativeDocumentMoniker": "Routes.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Routes.cs",
+              "RelativeToolTip": "Routes.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:47.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReplicBuilder.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ReplicBuilder.cs",
+              "RelativeDocumentMoniker": "ReplicBuilder.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ReplicBuilder.cs",
+              "RelativeToolTip": "ReplicBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NameDialog.xaml",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NameDialog.xaml",
+              "RelativeDocumentMoniker": "NameDialog.xaml",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NameDialog.xaml",
+              "RelativeToolTip": "NameDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T10:31:07.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T12:53:39.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Replics.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Replics.cs",
+              "RelativeDocumentMoniker": "Replics.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Replics.cs",
+              "RelativeToolTip": "Replics.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:04:03.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IBuilder.cs",
+              "RelativeDocumentMoniker": "IBuilder.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IBuilder.cs",
+              "RelativeToolTip": "IBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:13.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RouteGroup.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\RouteGroup.cs",
+              "RelativeDocumentMoniker": "RouteGroup.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\RouteGroup.cs",
+              "RelativeToolTip": "RouteGroup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:45.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ViewState": "AQIAAKYBAAAAAAAAAAAEwLUBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:57:12.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "INPCSprite.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\INPCSprite.cs",
+              "RelativeDocumentMoniker": "INPCSprite.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\INPCSprite.cs",
+              "RelativeToolTip": "INPCSprite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:56:14.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
