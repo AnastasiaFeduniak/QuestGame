@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\storyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:storyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|d:\\labs_2\\mapz\\lab5\\lab5\\storywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3054D038-8172-41CD-8CC6-AE0E2F466294}|Lab5.csproj|solutionrelative:storywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -193,7 +197,7 @@
         },
         {
           "DockedWidth": 386,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -201,7 +205,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "StoryViewModel.cs",
+              "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryViewModel.cs",
+              "RelativeDocumentMoniker": "StoryViewModel.cs",
+              "ToolTip": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryViewModel.cs",
+              "RelativeToolTip": "StoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:57:39.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NameDialog.xaml.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NameDialog.xaml.cs",
               "RelativeDocumentMoniker": "NameDialog.xaml.cs",
@@ -209,12 +226,11 @@
               "RelativeToolTip": "NameDialog.xaml.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:34:17.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T10:34:17.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserConf.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\UserConf.cs",
               "RelativeDocumentMoniker": "UserConf.cs",
@@ -222,12 +238,11 @@
               "RelativeToolTip": "UserConf.cs",
               "ViewState": "AgIAAEQBAAAAAAAAAAAmwFYBAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T19:31:26.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T19:31:26.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StoryWindow.xaml.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryWindow.xaml.cs",
               "RelativeDocumentMoniker": "StoryWindow.xaml.cs",
@@ -240,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -248,23 +263,21 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:53:42.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T12:53:42.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAALkUAAAAAAAAAAAIwNgUAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-10-15T12:28:55.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T12:28:55.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ConcreteSprite1.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ConcreteSprite1.cs",
               "RelativeDocumentMoniker": "ConcreteSprite1.cs",
@@ -276,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IPictureSprite.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IPictureSprite.cs",
               "RelativeDocumentMoniker": "IPictureSprite.cs",
@@ -288,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ConcretePictureSprite.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ConcretePictureSprite.cs",
               "RelativeDocumentMoniker": "ConcretePictureSprite.cs",
@@ -300,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "NumberKeyHandler.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NumberKeyHandler.cs",
               "RelativeDocumentMoniker": "NumberKeyHandler.cs",
@@ -312,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BackspaceKeyHandler.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\BackspaceKeyHandler.cs",
               "RelativeDocumentMoniker": "BackspaceKeyHandler.cs",
@@ -324,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "SpecEffects.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\SpecEffects.cs",
               "RelativeDocumentMoniker": "SpecEffects.cs",
@@ -336,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ISprites.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ISprites.cs",
               "RelativeDocumentMoniker": "ISprites.cs",
@@ -348,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StoryWindow.xaml",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\StoryWindow.xaml",
               "RelativeDocumentMoniker": "StoryWindow.xaml",
@@ -359,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "State.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\State.cs",
               "RelativeDocumentMoniker": "State.cs",
@@ -371,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Lab5.csproj",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Lab5.csproj",
               "RelativeDocumentMoniker": "Lab5.csproj",
@@ -379,12 +392,11 @@
               "RelativeToolTip": "Lab5.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-15T12:20:58.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T12:20:58.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "SpecEffectsFactory.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\SpecEffectsFactory.cs",
               "RelativeDocumentMoniker": "SpecEffectsFactory.cs",
@@ -396,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "FlyweightSprite.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\FlyweightSprite.cs",
               "RelativeDocumentMoniker": "FlyweightSprite.cs",
@@ -408,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Leaf.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Leaf.cs",
               "RelativeDocumentMoniker": "Leaf.cs",
@@ -420,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "EnterKeyHandler.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\EnterKeyHandler.cs",
               "RelativeDocumentMoniker": "EnterKeyHandler.cs",
@@ -432,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Command.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Command.cs",
               "RelativeDocumentMoniker": "Command.cs",
@@ -444,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Choice.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Choice.cs",
               "RelativeDocumentMoniker": "Choice.cs",
@@ -456,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Handler.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Handler.cs",
               "RelativeDocumentMoniker": "Handler.cs",
@@ -468,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Composite.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Composite.cs",
               "RelativeDocumentMoniker": "Composite.cs",
@@ -480,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IStoryComponent.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IStoryComponent.cs",
               "RelativeDocumentMoniker": "IStoryComponent.cs",
@@ -492,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "RouteComponent.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\RouteComponent.cs",
               "RelativeDocumentMoniker": "RouteComponent.cs",
@@ -504,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "QuestGame.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\QuestGame.cs",
               "RelativeDocumentMoniker": "QuestGame.cs",
@@ -516,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "ClassDiagram1.cd",
@@ -527,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -539,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ResourceReader.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\c5d1b3d573fadbd037e0e6cdd14caf1f323a1b66c49f70fa6a741c26b5b1bb90\\ResourceReader.cs",
               "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\c5d1b3d573fadbd037e0e6cdd14caf1f323a1b66c49f70fa6a741c26b5b1bb90\\ResourceReader.cs",
@@ -549,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Script.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Script.cs",
               "RelativeDocumentMoniker": "Script.cs",
@@ -561,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "MakeAChoice.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MakeAChoice.cs",
               "RelativeDocumentMoniker": "MakeAChoice.cs",
@@ -573,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "MandatoryChoice.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MandatoryChoice.cs",
               "RelativeDocumentMoniker": "MandatoryChoice.cs",
@@ -585,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -596,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "InventoryGiver.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\InventoryGiver.cs",
               "RelativeDocumentMoniker": "InventoryGiver.cs",
@@ -608,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Routes.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Routes.cs",
               "RelativeDocumentMoniker": "Routes.cs",
@@ -620,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "ReplicBuilder.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\ReplicBuilder.cs",
               "RelativeDocumentMoniker": "ReplicBuilder.cs",
@@ -632,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "NameDialog.xaml",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\NameDialog.xaml",
               "RelativeDocumentMoniker": "NameDialog.xaml",
@@ -643,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -654,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Replics.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\Replics.cs",
               "RelativeDocumentMoniker": "Replics.cs",
@@ -666,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -678,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "IBuilder.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\IBuilder.cs",
               "RelativeDocumentMoniker": "IBuilder.cs",
@@ -690,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "RouteGroup.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\RouteGroup.cs",
               "RelativeDocumentMoniker": "RouteGroup.cs",
@@ -702,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
@@ -712,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "INPCSprite.cs",
               "DocumentMoniker": "D:\\LABS_2\\MAPZ\\Lab5\\Lab5\\INPCSprite.cs",
               "RelativeDocumentMoniker": "INPCSprite.cs",
